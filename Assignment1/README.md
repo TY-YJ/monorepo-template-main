@@ -1,13 +1,16 @@
 # TODO Please edit the following information in your assignment
 
-- Name:
+- Name: Taeyoon Kim 
 - How many hours did it take you to complete this assignment?
+  - It took me about three or four hours
 - Did you collaborate with any other students/TAs/Professors?
+  - I have not collaborated with any others
 - Did you use any external resources? (Cite them below)
-  - tbd
-  - tbd
+  - I only used linked provided from the assignment1
 - (Optional) What was your favorite part of the assignment?
+  - Python is not a new programming language, but it was a good refresh and also learned many new things
 - (Optional) How would you improve the assignment?
+  - It is as good as it is.
 
 # Implementation Logistics
 
