@@ -1,13 +1,16 @@
 # TODO Please edit the following information in your assignment
 
-- Name:
+- Name: Taeyoon Kim
 - How many hours did it take you to complete this assignment?
+  - It took me about 4 hours to complete
 - Did you collaborate with any other students/TAs/Professors?
+  - I have not collaborated with any others.
 - Did you use any external resources? (Cite them below)
-  - tbd
-  - tbd
+  - https://docs.python.org/3/library/unittest.html (unit test)
+  - Links provided from assignments
+  - Lecture recording
 - (Optional) What was your favorite part of the assignment?
-- (Optional) How would you improve the assignment?
+- (Optional) How would you improve the assignment? 
 
 # Implementation Logistics
 
