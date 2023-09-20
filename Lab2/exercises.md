@@ -1,4 +1,4 @@
-# Exercises (Modify this file)
+# Exercises
 
 Answer and complete the following exercises.
 
