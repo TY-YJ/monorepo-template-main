@@ -35,7 +35,7 @@ class BetterDecoder(json.JSONDecoder):
       return decoder_func(obj)
 
   def decode_complex(self, obj):
-    return complex(obj["real"], obj["imag"])
+    return complex(obj["real"], obj["img"])
 
   def decode_range(self, obj):
     return range(obj["start"], obj["stop"], obj["step"])
