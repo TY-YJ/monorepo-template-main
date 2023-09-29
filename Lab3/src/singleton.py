@@ -5,6 +5,7 @@ class Logger:
       if cls._instance is None:
         cls._instance = super(Logger, cls).__new__(cls)
         cls._instance.messages= []
+        cls._instance.add_message("First message")
         print("Logger created exactly once")
       else:
         print("Logger already created")
