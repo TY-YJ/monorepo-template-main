@@ -47,6 +47,7 @@ class GildedRose(object):
                 else:
                     if item.quality < 50:
                         item.quality = item.quality + 1
+<<<<<<< HEAD
 
 
 class Updater(object):
@@ -55,3 +56,5 @@ class Updater(object):
       self.items = items
 
   
+=======
+>>>>>>> db513283f5eec8136c634792c4da43b20a804f94
