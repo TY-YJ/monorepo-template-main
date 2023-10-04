@@ -1,12 +1,15 @@
 # TODO Please edit the following information in your assignment
 
-- Name:
+- Name: Taeyoon Kim 
 - How many hours did it take you to complete this assignment?
+  - It took me about 2hr 30min
 - Did you collaborate with any other students/TAs/Professors?
+  - No, I did not collaborate with any other
 - Did you use any external resources? (Cite them below)
-  - tbd
-  - tbd
+  - Links provided
+  - https://sourcery.ai/blog/refactoring-gilded-rose/
 - (Optional) What was your favorite part of the assignment?
+  - Trying to apply design pattern was interesting
 - (Optional) How would you improve the assignment?
 
 # Implementation Logistics
