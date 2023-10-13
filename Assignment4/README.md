@@ -2,10 +2,12 @@
 
 - Name: Taeyoon Kim 
 - How many hours did it take you to complete this assignment?
+  - It took me about an hour to complete it
 - Did you collaborate with any other students/TAs/Professors?
+  - I have not collaborated with anyone
 - Did you use any external resources? (Cite them below)
-  - tbd
-  - tbd
+  - paypal.com
+  - Links provided
 - (Optional) What was your favorite part of the assignment?
 - (Optional) How would you improve the assignment?
 
